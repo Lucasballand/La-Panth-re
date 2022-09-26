@@ -362,6 +362,10 @@ a:hover {
     z-index: 2;
 }
 
+.Image-logo-footer {
+    width: 10%;
+}
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
@@ -456,8 +460,8 @@ nav .caret {
 .btn-d,
 .btn-d:hover,
 .btn-d:focus {
-    color: #FFF;
-    background: rgba(0, 0, 0, .3);
+    color: rgb(236, 97, 4);
+    background: rgba(0, 0, 0, 0.3);
 }
 
 button {
@@ -775,7 +779,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #ffffff!important;
 }
 
 .btn-atomic-tangerine {
