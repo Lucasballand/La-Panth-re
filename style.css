@@ -730,12 +730,10 @@ label {
 }
 
 .container {
-    max-width: 1000px;
+    max-width: 100%;
 }
 
 .col-xs-12 {
-    padding-left: 0px;
-    padding-right: 0px;
     align-items: center;
     display: flex;
     flex-direction: column;
@@ -884,7 +882,7 @@ label {
 }
 
 .bg-lines-h2-bg {
-    background-image: url("img/lines-h2-bg.jpg");
+    background-image: url("./img/lines-h2-bg.png");
 }
 
 .bg-banniere {
